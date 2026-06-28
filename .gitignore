@@ -49,3 +49,10 @@ __pycache__/
 
 
 supabase/.temp/
+
+# Firebase local files
+.firebase/
+
+# Firebase AI Agent
+.agents/
+skills-lock.json
