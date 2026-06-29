@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./samadhan/public/hero-landing-page.png" alt="Samadhan — AI-Powered Civic Governance Platform" width="100%" />
+<img src="public/hero-landing-page.png" alt="Samadhan — AI-Powered Civic Governance Platform" width="100%" />
 
 <h1>🏛️ Samadhan</h1>
 
