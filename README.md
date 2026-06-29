@@ -338,7 +338,6 @@ Create a `.env` file in the project root:
 VITE_SUPABASE_URL=
 VITE_SUPABASE_ANON_KEY=
 GOOGLE_AI_API_KEY=
-NVIDIA_NIM_API_KEY=
 ```
 
 > ⚠️ Never commit real API keys. Use `.env.example` as a template and keep `.env` in `.gitignore`.
@@ -419,7 +418,6 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 - [React](https://react.dev)
 - [Supabase](https://supabase.com)
 - [Leaflet](https://leafletjs.com)
-- [NVIDIA NIM](https://www.nvidia.com/en-us/ai/)
 - [Roboflow](https://roboflow.com)
 
 <br/>
