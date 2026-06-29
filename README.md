@@ -1,7 +1,7 @@
 <p align="center">
   <img src="public/hero-landing-page.png"
        alt="Samadhan"
-       width="850">
+       width="650">
 </p>
 
 <h1 align="center">🏛️ Samadhan</h1>
