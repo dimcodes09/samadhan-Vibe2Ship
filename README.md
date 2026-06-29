@@ -16,7 +16,6 @@ An AI-powered civic engagement platform that unifies issue reporting, community 
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square" alt="Vite" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white&style=flat-square" alt="Supabase" />
   <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?logo=google&logoColor=white&style=flat-square" alt="Google AI Studio" />
-  <img src="https://img.shields.io/badge/NVIDIA%20NIM-76B900?logo=nvidia&logoColor=white&style=flat-square" alt="NVIDIA NIM" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" alt="Firebase" />
   <img src="https://img.shields.io/github/license/your-username/samadhan?style=flat-square" alt="License" />
   <img src="https://img.shields.io/github/stars/your-username/samadhan?style=flat-square" alt="Stars" />
