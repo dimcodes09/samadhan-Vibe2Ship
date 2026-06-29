@@ -225,6 +225,13 @@ Government Scheme Matching
 
 ## 🛠️ Tech Stack
 
+**Google Technologies**
+
+| Google Technology | Role in Project |
+|---|---|
+| Google AI Studio | Development and experimentation |
+| Firebase (Google Cloud) | Current deployment |
+
 **Frontend**
 
 | Technology | Purpose |
@@ -284,16 +291,6 @@ Government Scheme Matching
 
 <br/>
 
-## ☁️ Google Technologies Used
-
-| Google Technology | Role in Project |
-|---|---|
-| Google AI Studio | Development and experimentation |
-| Firebase Hosting | Current deployment |
-| Google Cloud Platform | Final submission deployment target |
-
-<br/>
-
 ## 🚀 Installation
 
 ```bash
@@ -324,7 +321,7 @@ npm run preview
 # Firebase Hosting
 firebase deploy
 
-# or Google Cloud (final submission target)
+# Google Cloud (final submission target)
 gcloud app deploy
 ```
 
