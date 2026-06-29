@@ -278,17 +278,9 @@ Government Scheme Matching
 
 | Technology | Purpose |
 |---|---|
-| NVIDIA NIM | High-performance AI inference |
 | Roboflow Vision | Computer vision for issue/frame analysis |
 | OCR Pipeline | Text extraction from uploaded documents |
 | Google AI Studio | Development and experimentation |
-
-**Deployment**
-
-| Stage | Platform |
-|---|---|
-| Current | Firebase Hosting |
-| Final Submission | Google Cloud |
 
 <br/>
 
