@@ -1,8 +1,10 @@
-<div align="center">
+<p align="center">
+  <img src="public/hero-landing-page.png"
+       alt="Samadhan"
+       width="850">
+</p>
 
-<img src="public/hero-landing-page.png" alt="Samadhan — AI-Powered Civic Governance Platform" width="100%" />
-
-<h1>🏛️ Samadhan</h1>
+<h1 align="center">🏛️ Samadhan</h1>
 
 <h3>Empowering Citizens. Enabling Smarter Governance.</h3>
 
