@@ -1,8 +1,10 @@
-<div align="center">
+<p align="center">
+  <img src="public/hero-landing-page.png"
+       alt="Samadhan"
+       width="550">
+</p>
 
-<img src="./samadhan/public/hero-landing-page.png" alt="Samadhan — AI-Powered Civic Governance Platform" width="100%" />
-
-<h1>🏛️ Samadhan</h1>
+<h1 align="center">🏛️ Samadhan</h1>
 
 <h3>Empowering Citizens. Enabling Smarter Governance.</h3>
 
@@ -87,7 +89,7 @@ Civic issues — broken roads, overflowing garbage, damaged streetlights, water 
 ### 📊 Civic Dashboard
 
 <p align="center">
-  <img src="./assets/dashboard-analytics.png" alt="Samadhan Civic Dashboard" width="100%" />
+  <img src="public/dashboard-analytics.png" alt="Samadhan Civic Dashboard" width="450" />
 </p>
 <p align="center"><sub><b>AI classifications, duplicate prevention, resolution time, and live category/status breakdowns — all in one dashboard.</b></sub></p>
 
@@ -103,7 +105,7 @@ Civic issues — broken roads, overflowing garbage, damaged streetlights, water 
 ### 🗺️ Interactive Civic Map
 
 <p align="center">
-  <img src="./assets/civic-map.png" alt="Samadhan Interactive Civic Map" width="100%" />
+  <img src="public/civic-map.png" alt="Samadhan Interactive Civic Map" width="450" />
 </p>
 <p align="center"><sub><b>Live, filterable map of reported issues with category breakdowns and top-affected-city rankings.</b></sub></p>
 
@@ -113,9 +115,6 @@ Civic issues — broken roads, overflowing garbage, damaged streetlights, water 
 
 ### 📁 Smart Document Locker
 
-<p align="center">
-  <img src="./assets/document-locker.png" alt="Samadhan Smart Document Locker" width="100%" />
-</p>
 <p align="center"><sub><b>AI-validated, OCR-processed document storage with readiness insights and expiry tracking.</b></sub></p>
 
 **Purpose:** Give citizens one secure home for important government documents.
@@ -157,8 +156,6 @@ Authentication → Database → Storage → Edge Functions
  Analytics & Dashboard Layer
 ```
 
-> 🖼️ `[Insert System Architecture Diagram]`
-
 <br/>
 
 ## ⚙️ AI Workflow
@@ -190,8 +187,6 @@ Resolution Tracking
 
 > 🔒 **Privacy by design:** videos are never uploaded or stored. Only a single AI-processed frame, extracted locally in the browser, ever enters the pipeline.
 
-> 🖼️ `[Insert AI Workflow Diagram]`
-
 <br/>
 
 ## 📄 Document Workflow
@@ -217,8 +212,6 @@ Document Upload
         ▼
 Government Scheme Matching
 ```
-
-> 🖼️ `[Insert Document Workflow Diagram]`
 
 <br/>
 
@@ -409,7 +402,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ## 🙏 Acknowledgements
 
-- Google AI Hackathon
+- Vibe2Ship Hackathon
 - The Open Source Community
 - [React](https://react.dev)
 - [Supabase](https://supabase.com)
@@ -420,7 +413,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 <div align="center">
 
-**Built by [Divyanshu Kubde](https://github.com/your-username)**
+**Built by [Divyanshu Kubde](https://github.com/dimcodes09)**
 
 ⭐ If you found this project interesting, consider starring the repo!
 
